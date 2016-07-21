@@ -4,10 +4,10 @@
     <title>Myhr Studio</title>
     <description>Game Development Redefined
 </description>
-    <link>http://yourdomain.com/webpage/</link>
-    <atom:link href="http://yourdomain.com/webpage/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 21 Jul 2016 18:00:07 +0400</pubDate>
-    <lastBuildDate>Thu, 21 Jul 2016 18:00:07 +0400</lastBuildDate>
+    <link>https://myhrstudio.com/webpage/</link>
+    <atom:link href="https://myhrstudio.com/webpage/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 21 Jul 2016 18:25:25 +0400</pubDate>
+    <lastBuildDate>Thu, 21 Jul 2016 18:25:25 +0400</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -15,8 +15,8 @@
         <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur malesuada rutrum scelerisque. Mauris quis enim sit amet nulla finibus accumsan non vitae sapien.&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Feb 2016 00:08:10 +0400</pubDate>
-        <link>http://yourdomain.com/webpage/project/2016/02/02/submarine/</link>
-        <guid isPermaLink="true">http://yourdomain.com/webpage/project/2016/02/02/submarine/</guid>
+        <link>https://myhrstudio.com/webpage/project/2016/02/02/submarine/</link>
+        <guid isPermaLink="true">https://myhrstudio.com/webpage/project/2016/02/02/submarine/</guid>
         
         
         <category>project</category>
