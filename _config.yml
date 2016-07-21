@@ -33,6 +33,7 @@ address_zip: 0001
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
-paginate: 5
+destination: _site/blog
+paginate: 2
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 gems: [jekyll-paginate, jekyll-feed]
