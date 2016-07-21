@@ -1,9 +1,9 @@
 ---
 layout: page
-description: "Myhr Studio Blogd"
+description: "Myhr Studio Blog"
 ---
 
-{% for post in paginator.categories.blogpost limit:3 %}
+{% for post in paginator.posts limit:3 %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            {{ post.title }}

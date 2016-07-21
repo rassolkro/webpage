@@ -577,7 +577,7 @@ fieldset[disabled] .btn-success.active {
 }
 
 
-.caption { //TODO Contradicting?
+.caption {
   text-align: center;
   font-size: 14px;
   padding: 10px;
