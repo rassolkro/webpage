@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Myhr Studio</title>
+    <description>Game Development Redefined
+</description>
+    <link>https://myhrstudio.com/webpage/</link>
+    <atom:link href="https://myhrstudio.com/webpage/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 23 Jul 2016 20:22:26 +0400</pubDate>
+    <lastBuildDate>Sat, 23 Jul 2016 20:22:26 +0400</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>TouchTheStars</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur malesuada rutrum scelerisque. Mauris quis enim sit amet nulla finibus accumsan non vitae sapien.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 02 Feb 2016 00:08:10 +0400</pubDate>
+        <link>https://myhrstudio.com/webpage/project/2016/02/02/submarine/</link>
+        <guid isPermaLink="true">https://myhrstudio.com/webpage/project/2016/02/02/submarine/</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+  </channel>
+</rss>
